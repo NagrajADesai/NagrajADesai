@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nagraj Desai
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Mechine Learning
+- 🌱 I’m currently improving myself in Python and Mechine Learning
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me via email -dnagraj0506@gmail.com
 
