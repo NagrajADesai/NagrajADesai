@@ -5,15 +5,15 @@
 <img align="right" alt="coding" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagrajadesai&label=Profile%20views&color=0e75b6&style=flat" alt="nagrajadesai" /> </p>
 
-- 🔭 I’m currently working on [Kidney-Disease-Classification-Deep-Learning-Project](https://github.com/NagrajADesai/Kidney-Disease-Classification-Deep-Learning-Project)
+- 🔭 I’m currently working on [https://github.com/NagrajADesai/llm-pdf-reader)
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NagrajADesai?tab=repositories](https://github.com/NagrajADesai?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@nagrajdesaee](https://medium.com/@nagrajdesaee)
 
-- 💬 Ask me about **Data Science, Machine Learning, Deep Learning**
+- 💬 Ask me about **Generative AI, Data Science, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **nagrajdesaee@gmail.com**
 
