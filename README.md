@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagrajadesai&label=Profile%20views&color=0e75b6&style=flat" alt="nagrajadesai" /> </p>
 
-- 🔭 I’m currently working on [https://github.com/NagrajADesai/llm-pdf-reader)
+- 🔭 I’m currently working on [https://github.com/NagrajADesai/llm-pdf-reader](https://github.com/NagrajADesai/llm-pdf-reader)
 
 - 🌱 I’m currently learning **Generative AI**
 
